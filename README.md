@@ -17,8 +17,8 @@ This script has been tested with:
 # Requirements
 * Port ADO integration
 * ADO Teams being ingested
-* Relation property for Port User to ADO Teams blueprint
 * Port Client ID and Client Secret
+* Relation property for Port User to ADO Teams blueprint
 ```
 {
   "identifier": "_user",
